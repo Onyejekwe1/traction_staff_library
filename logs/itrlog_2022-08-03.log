@@ -1,0 +1,7 @@
+{"level":"error","ts":1659519509.881226,"msg":"Error occurreddial tcp: lookup tcp/%!d(string=5432): nodename nor servname provided, or not known"}
+{"level":"info","ts":1659519676.4740322,"msg":"Web server started at 2022-08-03 10:41:16.445557 +0100 WAT"}
+{"level":"error","ts":1659519689.860061,"msg":"http: Server closed"}
+{"level":"warn","ts":1659519689.861221,"msg":"Server has been shutdown at 2022-08-03 10:41:16.445557 +0100 WAT"}
+{"level":"info","ts":1659519717.305423,"msg":"Web server started at 2022-08-03 10:41:57.294154 +0100 WAT"}
+{"level":"error","ts":1659519729.4685671,"msg":"http: Server closed"}
+{"level":"warn","ts":1659519729.469702,"msg":"Server has been shutdown at 2022-08-03 10:41:57.294154 +0100 WAT"}

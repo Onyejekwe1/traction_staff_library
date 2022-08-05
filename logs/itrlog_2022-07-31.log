@@ -1,0 +1,4 @@
+{"level":"info","ts":1659243553.485654,"msg":"Web server started at 2022-07-31 05:59:13.450558 +0100 WAT"}
+{"level":"info","ts":1659243565.333118,"msg":"IP:127.0.0.1:51166:/:2022-07-31 05:59:13.450558 +0100 WAT"}
+{"level":"error","ts":1659243572.847233,"msg":"http: Server closed"}
+{"level":"warn","ts":1659243572.848587,"msg":"Server has been shutdown at 2022-07-31 05:59:13.450558 +0100 WAT"}

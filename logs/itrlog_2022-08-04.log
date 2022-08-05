@@ -1,0 +1,31 @@
+{"level":"info","ts":1659582058.770185,"msg":"Web server started at 2022-08-04 04:00:58.710325 +0100 WAT"}
+{"level":"error","ts":1659582490.528617,"msg":"http: Server closed"}
+{"level":"warn","ts":1659582490.5294988,"msg":"Server has been shutdown at 2022-08-04 04:00:58.710325 +0100 WAT"}
+{"level":"info","ts":1659582505.995567,"msg":"Web server started at 2022-08-04 04:08:25.978201 +0100 WAT"}
+{"level":"error","ts":1659583143.6865358,"msg":"http: Server closed"}
+{"level":"warn","ts":1659583143.687619,"msg":"Server has been shutdown at 2022-08-04 04:08:25.978201 +0100 WAT"}
+{"level":"info","ts":1659583151.129798,"msg":"Web server started at 2022-08-04 04:19:11.099296 +0100 WAT"}
+{"level":"error","ts":1659583383.7319,"msg":"http: Server closed"}
+{"level":"warn","ts":1659583383.7329159,"msg":"Server has been shutdown at 2022-08-04 04:19:11.099296 +0100 WAT"}
+{"level":"info","ts":1659583706.1394749,"msg":"Web server started at 2022-08-04 04:28:26.122351 +0100 WAT"}
+{"level":"error","ts":1659583713.5465221,"msg":"http: Server closed"}
+{"level":"warn","ts":1659583713.547662,"msg":"Server has been shutdown at 2022-08-04 04:28:26.122351 +0100 WAT"}
+{"level":"info","ts":1659585561.1471071,"msg":"Web server started at 2022-08-04 04:59:21.136623 +0100 WAT"}
+{"level":"error","ts":1659585740.220723,"msg":"http: Server closed"}
+{"level":"warn","ts":1659585740.2215838,"msg":"Server has been shutdown at 2022-08-04 04:59:21.136623 +0100 WAT"}
+{"level":"info","ts":1659585786.104013,"msg":"Web server started at 2022-08-04 05:03:06.085777 +0100 WAT"}
+{"level":"info","ts":1659587506.637119,"msg":"Web server started at 2022-08-04 05:31:46.626075 +0100 WAT"}
+{"level":"error","ts":1659587514.711767,"msg":"http: Server closed"}
+{"level":"warn","ts":1659587514.712994,"msg":"Server has been shutdown at 2022-08-04 05:31:46.626075 +0100 WAT"}
+{"level":"info","ts":1659587519.09535,"msg":"Web server started at 2022-08-04 05:31:59.085644 +0100 WAT"}
+{"level":"error","ts":1659587526.5486422,"msg":"http: Server closed"}
+{"level":"warn","ts":1659587526.549844,"msg":"Server has been shutdown at 2022-08-04 05:31:59.085644 +0100 WAT"}
+{"level":"info","ts":1659587567.9666061,"msg":"Web server started at 2022-08-04 05:32:47.949667 +0100 WAT"}
+{"level":"error","ts":1659587582.2307358,"msg":"http: Server closed"}
+{"level":"warn","ts":1659587582.231752,"msg":"Server has been shutdown at 2022-08-04 05:32:47.949667 +0100 WAT"}
+{"level":"info","ts":1659587979.431873,"msg":"Web server started at 2022-08-04 05:39:39.417066 +0100 WAT"}
+{"level":"error","ts":1659587999.609608,"msg":"http: Server closed"}
+{"level":"warn","ts":1659587999.6108649,"msg":"Server has been shutdown at 2022-08-04 05:39:39.417066 +0100 WAT"}
+{"level":"info","ts":1659588556.284792,"msg":"Web server started at 2022-08-04 05:49:16.26535 +0100 WAT"}
+{"level":"error","ts":1659588574.835453,"msg":"http: Server closed"}
+{"level":"warn","ts":1659588574.835553,"msg":"Server has been shutdown at 2022-08-04 05:49:16.26535 +0100 WAT"}
